@@ -1,2 +1,2 @@
 # fingerprint-JetsonNano
-Fingerprint sensor intergfacing with Jetson Nano using GPIO UART
+Fingerprint sensor interfacing with Jetson Nano using GPIO UART
